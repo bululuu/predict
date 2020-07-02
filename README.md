@@ -1,2 +1,1 @@
-# predict
-数据集：Video Game Sales
+数据集：wine_benchmarks数据集和spambase_benchmarks数据集。
